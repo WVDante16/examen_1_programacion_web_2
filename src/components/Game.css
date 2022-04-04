@@ -1,0 +1,17 @@
+.Game {
+    text-align: center;
+    font-style: italic;
+    background-color: burlywood;
+}
+
+.button {
+    background-color: aquamarine;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.playButton {
+    background-color: red;
+    padding: 5px 10px;
+    font-size: 15px;
+}
